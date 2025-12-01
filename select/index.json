@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Way Back Home (Japanese Ver.)",
+  "base_artist": "ショウン",
+  "createdAt": "2025-12-01T12:22:28.018050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Way Back Home (Japanese Ver.)",
+      "artist": "SHAUN",
+      "has_synced": false,
+      "path": "select/01_Way_Back_Home_(Japanese_Ver.)_SHAUN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Way Back Home  (Japanese Ver.)",
+      "artist": "Shaun",
+      "has_synced": true,
+      "path": "select/02_Way_Back_Home_(Japanese_Ver.)_Shaun.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Way Back Home - Japanese Ver.",
+      "artist": "SHAUN",
+      "has_synced": false,
+      "path": "select/03_Way_Back_Home_-_Japanese_Ver._SHAUN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Way Back Home (Japanese Ver.)",
+      "artist": "SHAUN",
+      "has_synced": false,
+      "path": "select/pl_01_Way_Back_Home_(Japanese_Ver.)_SHAUN.txt"
+    }
+  ]
+}
